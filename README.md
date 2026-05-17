@@ -2,7 +2,7 @@
 
 Portfolio case study documenting the end-to-end UX design process for **Bite**, a nutritional tracking web platform designed for users with low digital literacy.
 
-**→ [View live portfolio](https://andresangarita.github.io/bite-portfolio)**
+**→ [View live portfolio](https://andres-angarita.github.io/bite-portfolio)**
 
 ---
 

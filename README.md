@@ -10,7 +10,7 @@ Portfolio case study documenting the end-to-end UX design process for **Bite**, 
 
 | | |
 |---|---|
-| **Role** | UX Designer |
+| **Role** | UX Designer / Researcher |
 | **Duration** | 3 months |
 | **Tools** | Figma · Maze |
 | **Year** | 2025 |
@@ -43,19 +43,7 @@ reflection.html   ← Reflection & next steps
 
 All files are fully standalone HTML — no dependencies, no build step, no server required. Open any file directly in a browser.
 
-## Deployment (GitHub Pages)
-
-```bash
-git init
-git add .
-git commit -m "Bite portfolio"
-git remote add origin https://github.com/yourusername/bite-portfolio.git
-git push -u origin main
-```
-
-Then: **Settings → Pages → Source: main branch → Save**
-
-Your portfolio will be live at `yourusername.github.io/bite-portfolio` within a few minutes.
+Portfolio at `andres-angarita.github.io/bite-portfolio`.
 
 ---
 
